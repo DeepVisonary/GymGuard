@@ -42,4 +42,4 @@ The layout combines immersive video content with structured monitoring data, mak
 ## Try the Live Demo
 
 You can access and test the GymGuard landing page here:  
-👉 https://touzouz-adnane.github.io/GymGuard/
+👉 https://DeepVisonary.github.io/GymGuard/
